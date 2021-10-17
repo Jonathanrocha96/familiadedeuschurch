@@ -31,6 +31,17 @@ a:hover{
     height: 8vh;
  }
 
+@media (max-width:999px){
+
+.nav-list{
+position: absolute;
+top:8vh;
+right:0;
+
+}
+
+
+
  main{
 
      background: url("bg3.jpg") no-repeat center center;
